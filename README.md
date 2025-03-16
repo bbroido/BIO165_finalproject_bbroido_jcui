@@ -2,6 +2,10 @@ Inflammation-Related Gene Expression Responses to Fear Exposure: Tagap Upregulat
 Jason Cui and Blythe Broido
 
 Background:
+
+We are interested in inflammation-related genes that are upregulated specifically in response to fear exposure.
+We analyze single-cell RNA-seq data from Chen, M.B. et al 2020 ("Persistent transcriptional programmes are associated with remote memory").
+
 - Chen, M.B. et al 2020 include four conditions of mice, each of which receives a different set of fear conditioning stages. The fear conditioning procedure used in Chen, M.B. et al 2020 was as follows: mice are removed from their home cage and placed into a fear cage, where they receive a foot shock and hear a tone. Mice are placed back into their home cage, and 16 days later, are reintroduced to the fear cage (recall stage).
 - 4 Fear Conditions:
     - Homecage: mice that were only exposed to their home cage
