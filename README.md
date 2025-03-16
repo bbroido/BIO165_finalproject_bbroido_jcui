@@ -1,4 +1,5 @@
-Inflammation-Related Gene Expression Responses to Fear Exposure: Tagap Upregulation in the Mouse Medial Prefrontal Cortex\
+Inflammation-Related Gene Expression Responses to Fear Exposure: Tagap Upregulation in the Mouse Medial Prefrontal Cortex
+
 Jason Cui and Blythe Broido
 
 Background:
