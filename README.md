@@ -28,10 +28,10 @@ Specifically identified genes that are upregulated in fear exposure conditions (
 Data:
 - The raw data (normalized gene count data pulled directly from Chen, M.B. et al. 2020) is uploaded under the file name neuronal_transcriptomic.csv
 - Segmentation of the raw dataset into the relevant samples for each of the 4 fear conditions was performed. The results of these are four dataframes, one for each fear condition.
-      - Homecage_Genes.csv (Homecage only)
-      - Context_Genes.csv (Recall Only)
-      - Fearonly_Genes.csv (Fear Only)
-      - FearConditioned_Genes.csv (Fear Conditioned)
+    - Homecage_Genes.csv (Homecage only)
+    - Context_Genes.csv (Recall Only)
+    - Fearonly_Genes.csv (Fear Only)
+    - FearConditioned_Genes.csv (Fear Conditioned)
   
 Code:
 - data_analysis_structuring.ipynb: To segment the raw dataset into the relevant samples for each of the 4 fear conditions. Also transposes the data to put genes as columns and samples as rows.
